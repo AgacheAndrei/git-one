@@ -4,3 +4,5 @@
  let x='b'+'a'+ + 'a' +'a';
  console.log(x.toLowerCase());
  console.log("o sa ajungem la conflict");
+ console.log("sa inceapa lupta");
+
