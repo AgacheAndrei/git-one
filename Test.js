@@ -3,3 +3,4 @@
  console.log(vector);
  let x='b'+'a'+ + 'a' +'a';
  console.log(x.toLowerCase());
+ console.log("sa inceapa lupta");
